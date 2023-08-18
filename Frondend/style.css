@@ -1,0 +1,13 @@
+const spinAnimation = keyframes`
+0% {
+    border-width: 0;
+  }
+  100% {
+    border-width: 20px;
+  }
+`;
+const SpinButton = styled.button`
+animation: ${spinAnimation} 2s linear infinite;
+border-radius: 50%;
+border: 20px solid transparent;
+`;
