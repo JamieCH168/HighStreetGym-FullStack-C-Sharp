@@ -1,0 +1,64 @@
+# OS generated files #
+######################
+*.DS_Store
+*.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-insiders/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider (if you use it)
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core/7
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.runtimeconfig.json
+
+# ASP.NET Core
+wwwroot/
+
+# Common build directories
+bin/
+obj/
+
+# NuGet
+packages/
+
+# ReSharper (if you use it)
+_ReSharper*/
+*.DotSettings.user
+
+# Other common tools
+*.DotSettings.user
+*.log
